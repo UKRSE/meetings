@@ -6,3 +6,16 @@ Draft Agenda for January 2016 Meeting
 1. Institutional RSE Champions -- next steps
 1. Creating a new RSE group -- common problems, diverse solutions? (Open discussion)
 1. RSE "driver's license"?
+1. Data - What data would it be useful for us to collect for:
+  * Reporting to:
+    * Our institutions
+    * RCs
+    * ?
+  * Understanding the effect we (RSEs) are having on:
+    * Sustainability
+    * Software quality
+    * Research outcomes
+    * Impact
+    * ?
+
+  And how should we collect it?

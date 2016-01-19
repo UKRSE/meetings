@@ -18,7 +18,8 @@ Draft Agenda for January 2016 Meeting
     * Impact
     * ?
   What data would we need to collect for these metrics, and how should we collect it?
-1. Introduction to the RSE Network and what we plan to do
-1. Discussion of the RSE Fellows launch event
-1. Discussion of the RSE survey
-1. Plea for reviewers to help Software Sustainability Institute's investigation into national job adverts for RSEs
+1. Introduction to the RSE Network and what we plan to do (proposed by Simon)
+ * Including a discussion of the skills people would be willing to teach other RSEs
+1. Discussion of the RSE Fellows launch event (proposed by Simon)
+1. Discussion of the RSE survey (proposed by Simon)
+1. Plea for reviewers to help Software Sustainability Institute's investigation into national job adverts for RSEs (proposed by Simon)

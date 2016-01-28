@@ -33,7 +33,7 @@ Draft Agenda for January 2016 Meeting
 
 ## Parallel Sessions B
 
-1. Metrics and measurement for RSEs
+1. Metrics and impact measurement for RSEs
 2. RSE Network - skills and resouce sharing
 3. UKRSE/RSEN/RSEL/EPSRC RSE Fellows coordination -- design of a common organisation.
 4. RSE "driver's license"? Training in minimum professsional standards.

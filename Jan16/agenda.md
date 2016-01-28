@@ -1,11 +1,48 @@
 Draft Agenda for January 2016 Meeting
 =====================================
 
-1. UKRSE/RSEN/RSEL/EPSRC RSE Fellows coordination; straining the alphabet soup!
-1. RSE event colocated with SSI CW 16 - planning
-1. Institutional RSE Champions -- next steps
+##Arrival Instructions
+
+* Please wait in East Lobby of Podium Building, 1 Eversholt Street London.
+* Phone +447946868834 to ask James to come down to let people in. 
+* Our meeting room is in use until 1100, so attendees will need to wait in the adjacent breakout space.
+
+##Timetable
+
+* 1030 - 1100 Arrival 
+* 1100 - 1110 Settle down, take seats, remove room partition divider.
+* 1110 - 1115 Introduction, welcome, James Hetherington and Simon Hettrick
+* 1115 - 1140 Lightning talks, introduction
+* 1140 - 1220 Introduction to parallel sesssions topics (5 mins each, JH and SH)
+* 1220 - 1230 Walk to Lunch venue
+* 1230 - 1350 Lunch, Somers Town Coffee House
+* 1350 - 1400 Walk from Lunch venue
+* 1400 - 1500 Parallel sessions A -- see below
+* 1500 - 1530 Reporting Back and discussion, resolutions.
+* 1530 - 1600 Coffee Break
+* 1600 - 1700 Parallel sessions B -- see below
+* 1700 - 1730 Reporting Back and discussion, resolutions.
+* 1730 Retire to Doric Arch
+
+## Parallel Sessions A
+
+1. RSE Champions - Next Steps
+2. Planning next national RSE AGM meeting
+3. Job descriptions, job adverts, institutional models.
+4. Beyond EPSRC - RSE campaign for MRC, BBSRC, NIHR.
+
+## Parallel Sessions B
+
+1. Metrics and measurement for RSEs
+2. RSE Network - skills and resouce sharing
+3. UKRSE/RSEN/RSEL/EPSRC RSE Fellows coordination -- design of a common organisation.
+4. RSE "driver's license"? Training in minimum professsional standards.
+
+###Leftover notes from agenda crowdsourcing.
+
+
 1. Creating a new RSE group -- common problems, diverse solutions? (Open discussion)
-1. RSE "driver's license"?
+1. 
 1. Metrics/data - What metrics would it be useful for us to have for:
   * Reporting to:
     * Our institutions

@@ -12,7 +12,7 @@ Draft Agenda for January 2016 Meeting
 * 1030 - 1100 Arrival 
 * 1100 - 1110 Settle down, take seats, remove room partition divider.
 * 1110 - 1115 Introduction, welcome, James Hetherington and Simon Hettrick
-* 1115 - 1140 Lightning talks, introduction
+* 1115 - 1140 Lightning talks
 * 1140 - 1220 Introduction to parallel sesssions topics (5 mins each, JH and SH)
 * 1220 - 1230 Walk to Lunch venue
 * 1230 - 1350 Lunch, Somers Town Coffee House

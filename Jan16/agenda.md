@@ -16,26 +16,25 @@ Draft Agenda for January 2016 Meeting
 * 1140 - 1200 UKRSE/RSEN/RSEL/EPSRC RSE Fellows coordination -- design of a common organisation.
 * 1200 - 1220 Introduction to parallel sesssions topics (2.5 mins each, JH and SH)
 * 1220 - 1230 Walk to Lunch venue
-* 1230 - 1350 Lunch, Somers Town Coffee House
-* 1350 - 1400 Walk from Lunch venue
-* 1400 - 1445 Parallel sessions A -- see below
-* 1445 - 1500 Reporting Back and discussion, resolutions.
-* 1500 - 1545 Parallel sessions B -- see below
-* 1545 - 1600 Reporting Back and discussion 
-* 1600 - 1730 Open discussion, individual collaboration planning
+* 1230 - 1410 Lunch, Somers Town Coffee House
+* 1410 - 1420 Walk from Lunch venue
+* 1420 - 1505 Parallel sessions A -- see below
+* 1505 - 1520 Reporting Back and discussion, resolutions.
+* 1520 - 1600 Parallel sessions B -- see below
+* 1600 - 1620 Reporting Back and discussion 
+* 1620 - 1730 Open discussion, individual collaboration planning
 * 1730 Retire to Doric Arch
 
 ## Parallel Sessions A
 
-1. RSE Champions - Next Steps
-2. Planning next national RSE AGM meeting
-3. Job descriptions, job adverts, institutional models
+1. RSE Champions - Next Steps     7
+2. Planning next national RSE AGM meeting    6
+3. Job descriptions, job adverts, institutional models     12
 
 ## Parallel Sessions B
 
-1. Metrics and impact measurement for RSEs
-2. RSE Network - skills and resouce sharing
-3. RSE "driver's license"? Training in minimum professsional standards.
+1. Metrics and impact measurement for RSEs   6
+2. RSE Network - skills and resouce sharing   9
 
 ###Leftover notes from agenda crowdsourcing.
 

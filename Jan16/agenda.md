@@ -13,30 +13,29 @@ Draft Agenda for January 2016 Meeting
 * 1100 - 1110 Settle down, take seats, remove room partition divider.
 * 1110 - 1115 Introduction, welcome, James Hetherington and Simon Hettrick
 * 1115 - 1140 Lightning talks
-* 1140 - 1220 Introduction to parallel sesssions topics (5 mins each, JH and SH)
+* 1140 - 1200 UKRSE/RSEN/RSEL/EPSRC RSE Fellows coordination -- design of a common organisation.
+* 1200 - 1220 Introduction to parallel sesssions topics (2.5 mins each, JH and SH)
 * 1220 - 1230 Walk to Lunch venue
 * 1230 - 1350 Lunch, Somers Town Coffee House
 * 1350 - 1400 Walk from Lunch venue
-* 1400 - 1500 Parallel sessions A -- see below
-* 1500 - 1530 Reporting Back and discussion, resolutions.
-* 1530 - 1600 Coffee Break
-* 1600 - 1700 Parallel sessions B -- see below
-* 1700 - 1730 Reporting Back and discussion, resolutions.
+* 1400 - 1445 Parallel sessions A -- see below
+* 1445 - 1500 Reporting Back and discussion, resolutions.
+* 1500 - 1545 Parallel sessions B -- see below
+* 1545 - 1600 Reporting Back and discussion 
+* 1600 - 1730 Open discussion, individual collaboration planning
 * 1730 Retire to Doric Arch
 
 ## Parallel Sessions A
 
 1. RSE Champions - Next Steps
 2. Planning next national RSE AGM meeting
-3. Job descriptions, job adverts, institutional models.
-4. Beyond EPSRC - RSE campaign for MRC, BBSRC, NIHR.
+3. Job descriptions, job adverts, institutional models
 
 ## Parallel Sessions B
 
 1. Metrics and impact measurement for RSEs
 2. RSE Network - skills and resouce sharing
-3. UKRSE/RSEN/RSEL/EPSRC RSE Fellows coordination -- design of a common organisation.
-4. RSE "driver's license"? Training in minimum professsional standards.
+3. RSE "driver's license"? Training in minimum professsional standards.
 
 ###Leftover notes from agenda crowdsourcing.
 

@@ -27,9 +27,9 @@ Draft Agenda for January 2016 Meeting
 
 ## Parallel Sessions A
 
-1. RSE Champions - Next Steps     7
-2. Planning next national RSE AGM meeting    6
-3. Job descriptions, job adverts, institutional models     12
+1. RSE Champions - Next Steps     7 --- South Breakout
+2. Planning next national RSE AGM meeting    6   --- North Breakout
+3. Job descriptions, job adverts, institutional models     12 --- Main Room
 
 ## Parallel Sessions B
 

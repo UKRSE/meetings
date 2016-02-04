@@ -54,3 +54,35 @@ Resolutions/action items:
 * Create an HR toolkit.
 * Make an archive of RSE-type jobs advertised in the UK.
    - SSI have been scraping jobs.ac.uk for the last year or so
+
+
+## RSE Champions - Next Steps
+
+1. What is the role of RSE Champion?
+- Point of contacts for interested people
+- Facilitating and helping with recruitment
+- Help with job applications, career path advice
+- Being a nucleus for helping RSE people to work with HR
+- Working and contacting people in the industiral domain and corporate world: How do we get in touch with them?
+
+2. How much is the workload?
+- We don't know yet.
+- It is probably within the remit of RSE Fellows.
+
+3. How we want to publishing and promoting the role
+- Wepage(s) which has /haven't gone public
+- Webpage needs to clarify and provide information: Who provides the input to the webpages? Champions and the community
+- There should be common material, core material and more specific material for each institution
+- Example of case studies as selling point to new communities, RSE Champions could provide this
+- Institutional newsletters
+- Sharing proposals
+
+4. Helping and engaging between the champions
+- Giving mutual lectures and talks
+- Mailing lists (should be perhaps kept to a minimum ?)
+
+Points that came up in the general discussion:
+
+- Email will be sent out to the mailing list informing about the launch of the RSE Champion list.
+- Community will be encouraged to speak to their RSE Champion or become one themselves in case their institution is not listed.
+- RSE Champion is promoting the role and the campaign, but not the institution.
